@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "pixelmatch": "^4.0.2",
+    "polyserve": "^0.27.12",
+    "puppeteer": "^1.0.0"
+  },
+  "dependencies": {
+    "commander": "^2.16.0",
+    "shelljs": "^0.8.2"
+  },
+  "name": "spot_the_fish",
+  "version": "1.0.0",
+  "main": "fish_test_env.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
